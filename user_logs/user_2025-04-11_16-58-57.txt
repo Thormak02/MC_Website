@@ -1,0 +1,13 @@
+ip: 2a01:586:2d44:1:3fc7:132:9ef0:429d
+userAgent: Mozilla/5.0 (Android 14; Mobile; rv:137.0) Gecko/137.0 Firefox/137.0
+platform: Linux armv81
+language: de-DE
+screenResolution: 378x819
+colorDepth: 24
+hardwareConcurrency: 8
+deviceMemory: N/A
+gpu: Adreno (TM) 650, or similar
+connectionType: N/A
+battery: N/A
+mouseMovements: []
+keyPresses: []

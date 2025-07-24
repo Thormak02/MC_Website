@@ -1,0 +1,8 @@
+===== Nutzer-Tracking =====
+Timestamp: 2025-04-11T17:13:44.490358
+IP-Adresse: 91.186.45.121
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+Plattform: None
+Sprache: de
+Authentifizierter Benutzer: admin
+===========================

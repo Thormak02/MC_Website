@@ -1,0 +1,9 @@
+screenResolution: 1366x768
+colorDepth: 24
+hardwareConcurrency: 2
+deviceMemory: 8
+gpu: N/A
+connectionType: N/A
+battery: 100% (Lädt)
+mouseMovements: []
+keyPresses: []

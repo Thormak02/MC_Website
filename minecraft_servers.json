@@ -1,0 +1,23 @@
+{
+    "servers": {
+        "1.21.5 Vanilla": "thormakmc.ddns.net:25582",
+        "1.21 Vanilla": "thormakmc.ddns.net:25580",
+        "Spigot 1.21": "thormakmc.ddns.net:25566",
+        "ATM10": "thormakmc.ddns.net:25567",
+        "Lithosphere": "thormakmc.ddns.net:25568",
+        "ATM9 Sky": "thormakmc.ddns.net:25569",
+        "Galactic Science": "thormakmc.ddns.net:25570",
+        "Terratonic": "thormakmc.ddns.net:25571",
+        "FTB Evolution": "thormakmc.ddns.net:25572",
+        "FTB Oceanblock 2": "thormakmc.ddns.net:25573",
+        "Forever Stranded": "thormakmc.ddns.net:25574",
+        "Sky Factory 5": "thormakmc.ddns.net:25581",
+        "David stinkt": "David-stinkt.de",
+        "NEU ATM9 Sky": "thormakmc.ddns.net:25583",
+	"ATM9": "thormakmc.ddns.net:25584",
+	"ATM8": "thormakmc.ddns.net:25585",
+	"Techopolis 3": "thormakmc.ddns.net:25586",
+	"1.21.7 Vanilla": "thormakmc.ddns.net:25587",
+	"Project Ozone 2": "thormakmc.ddns.net:25588"
+    }
+}

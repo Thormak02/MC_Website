@@ -1,0 +1,8 @@
+===== Nutzer-Tracking =====
+Timestamp: 2025-04-11T17:13:17.297023
+IP-Adresse: 91.186.45.121
+User-Agent: Mozilla/5.0 (Android 14; Mobile; rv:137.0) Gecko/137.0 Firefox/137.0
+Plattform: None
+Sprache: de-DE
+Authentifizierter Benutzer: david
+===========================

@@ -1,0 +1,13 @@
+ip: 93.181.50.71
+userAgent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/27.0 Chrome/125.0.0.0 Mobile Safari/537.36
+platform: Linux armv81
+language: de-DE
+screenResolution: 980x1622
+colorDepth: 24
+hardwareConcurrency: 8
+deviceMemory: 8
+gpu: ANGLE (ARM, Mali-G76, OpenGL ES 3.2)
+connectionType: 4g
+battery: Charge: 62%, Charging: true
+mouseMovements: []
+keyPresses: []

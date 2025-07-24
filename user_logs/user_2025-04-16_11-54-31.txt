@@ -1,0 +1,9 @@
+screenResolution: 980x1622
+colorDepth: 24
+hardwareConcurrency: 8
+deviceMemory: 8
+gpu: N/A
+connectionType: 4g
+battery: 62% (Lädt)
+mouseMovements: []
+keyPresses: []
